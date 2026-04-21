@@ -23,10 +23,11 @@ Teams:
 
 ### Non-CTF Awards:  
 **Listed in order of time**
- - IET Faraday Challenge 2023 (No. 1) [Link](https://vco-create.vtc.edu.hk/en/news/event/detail/79)
+ - IET Faraday Challenge 2023 (Top One) [Link](https://vco-create.vtc.edu.hk/en/news/event/detail/79)
  - 賽馬會海洋減塑創新挑戰賽 (Top Five) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
+ - 第二届賽馬會海洋減塑創新挑戰賽 (Top Ten) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
 
-### Results in SEO
+### Results in SEO:
 Optimization of WordPress sites:  
 <img src="https://github.com/503badgateway/503badgateway/blob/main/1.png" style="width:40%;">  
 <img src="https://github.com/503badgateway/503badgateway/blob/main/3.png" style="width:40%;">
