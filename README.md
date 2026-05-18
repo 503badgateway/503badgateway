@@ -21,11 +21,12 @@ Teams:
  - [F1r3fly](https://ctftime.org/team/412875) (Leader: SISUBENY)
  - [onlymehere](https://ctftime.org/team/424533) (Yep, there's only myself)
 
-### Non-CTF Awards:  
+### Other Awards:  
 **Listed in order of time**
- - IET Faraday Challenge 2023 (Top One) [Link](https://vco-create.vtc.edu.hk/en/news/event/detail/79)
- - 賽馬會海洋減塑創新挑戰賽 (Top Five) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
- - 第二届賽馬會海洋減塑創新挑戰賽 (Top Ten) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
+ - IET Faraday Challenge 2023 (Top 1) [Link](https://vco-create.vtc.edu.hk/en/news/event/detail/79)
+ - 賽馬會海洋減塑創新挑戰賽 (Top 5) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
+ - 第二届賽馬會海洋減塑創新挑戰賽 (Top 10) [Link](https://www.instagram.com/p/DW8cqEvD3ew/)
+ - I will add more later wait a bit ok
 
 ### Results in SEO:
 Optimization of WordPress sites:  
